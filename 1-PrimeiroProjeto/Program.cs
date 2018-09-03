@@ -10,6 +10,9 @@ namespace _1_PrimeiroProjeto
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Olá Mundo CSharp!");
+            Console.WriteLine("A execução acabou. Tecle Enter para continuar...");
+            Console.ReadLine();
         }
     }
 }
