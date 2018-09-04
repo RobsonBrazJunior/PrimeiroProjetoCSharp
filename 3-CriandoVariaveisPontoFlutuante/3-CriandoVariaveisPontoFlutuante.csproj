@@ -7,7 +7,7 @@
     <ProjectGuid>{643F870D-5823-4FBF-9613-225958FA8C1A}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_3_CriandoVariaveisPontoFlutuante</RootNamespace>
-    <AssemblyName>_3_CriandoVariaveisPontoFlutuante</AssemblyName>
+    <AssemblyName>3-CriandoVariaveisPontoFlutuante</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
