@@ -12,6 +12,13 @@ namespace P11_CalculaPoupanca2
         {
             Console.WriteLine("Executanado projeto 11 - Calcula Poupanca 2");
 
+            double valorInvestido = 1000;
+
+            for (int contadorMes = 1; contadorMes <= 12; contadorMes++)
+            {
+                valorInvestido *= 1.0036;
+                Console.WriteLine("Após " + contadorMes + " meses, você terá R$ " + valorInvestido);
+            }
 
             Console.ReadLine();
         }
